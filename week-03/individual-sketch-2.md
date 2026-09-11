@@ -58,7 +58,7 @@ flowchart LR
     Customer --> CorrectMistake
     Customer --> ReceiveDiscount
     Customer --> ViewCurrentOrder
-    Customer --> CancelOrder
+    Customer --> CancelOrder ```
 
 ---
 
