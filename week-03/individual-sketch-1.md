@@ -1,3 +1,14 @@
+
+# Individual Sketch — Week 3 Round 1
+**Student:** Kaashif Khan
+**Date:** 9/10/2026
+
+---
+
+## My Answer
+
+*Respond directly to the prompt. Write in plain sentences — no need to be formal. You have 12 minutes total, so think first, then write.*
+
 # Brew & Byte ��� System Requirements
 ### Prepared by the owner �� Version 1.0
 
@@ -117,4 +128,14 @@ Neither
 ## Question for owner 
 Can baristas add menu items when a manager isn't present, or should that permission be only for the managers? (Contradiction between 3.7 and 4.1)
 
-    
+---
+
+## What I'm Not Sure About
+
+*One or two sentences. What feels uncertain or wrong about what you just produced?*
+
+I'm not sure on whether or not I labelled too many of the requirements as functional when they could have been non-functional. 
+
+---
+
+**Commit this file before group discussion begins.**
