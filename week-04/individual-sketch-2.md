@@ -26,7 +26,7 @@ sequenceDiagram
     Order->>Barista: make submitted order available
     Barista-->>Order: receive submitted order
     Order-->>Customer: confirm order was submitted
-    ```
+```
 
 
 2. Then draw the price change. Two short diagrams or one, your choice: the manager changing the price, and Sam's order being totalled. Follow the arrow that reads the price and say exactly which object it lands on.
@@ -45,7 +45,7 @@ sequenceDiagram
     Order->>MenuItem: ask for current price
     MenuItem-->>Order: return current price
     Order-->>Sam: display order total
-    ```
+```
 
 
 3. State what your model says Sam paid, honestly. If it charges him five dollars, write that down. If you cannot tell, write that down — being unable to tell is itself the answer.
