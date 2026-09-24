@@ -153,7 +153,7 @@ sequenceDiagram
     Stay->>Room: mark room as occupied
     Room->>Stay: confirm occupied status 
     Stay->>Staff: confirm guest is checked in 
-    ```
+```
 
 Design Decision Note: 
 A design decision that the sequence diagram forced me to make is choosing Room to be responsible for knowing whether or not a room can be occupied. This is because Room already contains the attribute currentStatus. currentStatus indicates whether the room is available, occupied, reserved, or under maintenance. Keeping this responsibility with Room prevents the room's current status from being duplicated in Reservation or Stay. After working on the sequence diagram it became clear to me that Reservation should handle the booking information while Room handles information regarding the room's current status. 
