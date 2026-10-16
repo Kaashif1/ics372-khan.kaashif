@@ -9,8 +9,6 @@
 
 ## Part 1 — The Problem
 
-*In 2-3 sentences, describe the design problem you worked on tonight in your own words. Do not copy the handout. What were you actually trying to figure out?*
-
 The main problem we worked on this week was figuring out how different classes should get access to the objects they need in order to do what they need to do. We also had to consider whether our design would allow us to create separate objects for testing without interfering with the rest of the system.
 
 ---
