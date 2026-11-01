@@ -1,56 +1,49 @@
-# Design Log — Week [N]
-### [Course Name] | [Semester]
+# Design Log: Week [N]
 **Student:** [Your Name]  
 **Group:** [Group Number]  
 **Date:** [Date]  
-**Topic:** [Tonight's topic — filled in by instructor each week]
+
+**Last week's feedback:** [Paste the "For full marks" line from last week's design log grade, or write "First log."]  
+**Where I used it:** [The Part where you acted on it.]
+
+*Replace every bracket and delete this line. The quoted task under each Part stays.*
 
 ---
 
-## Part 1 — The Problem
+## Part 1: The Problem
 
-*In 2-3 sentences, describe the design problem you worked on tonight in your own words. Do not copy the handout. What were you actually trying to figure out?*
+> Tonight wasn't the activity you did. In two or three sentences, say what the problem actually was.
 
-[Your response here]
-
----
-
-## Part 2 — Your Design Decision
-
-*What did your group decide? Describe the design you landed on clearly enough that someone who wasn't in your group could understand it. If you produced a diagram, reference it here by filename.*
-
-[Your response here]
+[Your answer.]
 
 ---
 
-## Part 3 — How You Got There
+## Part 2: What We Ended With
 
-*This is the most important section. Start from your individual sketch — what did you think before your group talked? Then walk through how the group discussion changed (or didn't change) your thinking. What did the problem itself tell you about what the design needed to do? What constraints or requirements drove your decisions?*
+> Describe what your group ended with, as of your group's last commit tonight, clearly enough that someone who wasn't in your room could rebuild it. Name the file it's in.
 
-*Avoid starting from a solution. If you found yourself thinking "we should use X pattern" or "this should be a Y" before fully understanding the problem, note that here and explain whether you went back to the problem or pushed forward anyway.*
-
-[Your response here]
+[Your answer.]
 
 ---
 
-## Part 4 — The Road Not Taken
+## Part 3: One Decision That Moved or Held
 
-*What other approaches did you consider and why did you move away from them? If your group disagreed about something, describe both positions and explain how you resolved it. If you personally favored a different approach than what the group decided, explain your reasoning — even if you were outvoted.*
+> Take one decision you made alone in your sketch. Say what you chose and why it looked right at the time. Then say what happened to it tonight: what changed it, or what you heard and held against.
 
-[Your response here]
-
----
-
-## Part 5 — What You're Uncertain About
-
-*What would you change about your design if you had more time or information? What are you not confident about? What might break later?*
-
-[Your response here]
+[Your answer.]
 
 ---
 
-## Word Count: [X words]
+## Part 4: Argue the Other Side
+
+> Take the option your group didn't choose and make its strongest case, fairly enough that someone who wanted it would recognize their own argument. Then say what beat it, or that nothing did.
+
+[Your answer.]
 
 ---
 
-*Aim for 300–500 words across Parts 2–5. Part 1 does not count toward the word count.*
+## Part 5: What Could Break
+
+> Name one specific thing in your design that could turn out wrong, the situation that would expose it, and what you'd need to see to find out.
+
+[Your answer.]
